@@ -1,0 +1,29 @@
+# IAR
+Debug/
+Release/
+*.dep
+*.ewd
+*.ewp
+*.eww
+*.map
+*.lst
+*.o
+*.d
+
+# Keil
+Objects/
+Listings/
+*.uvguix.*
+*.uvoptx
+
+# 编译产物
+*.elf
+*.hex
+*.bin
+
+# VSCode
+.vscode/
+
+# 系统文件
+Thumbs.db
+.DS_Store
